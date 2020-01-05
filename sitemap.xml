@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<!-- Free Sitemap Generator http://www.sitemapx.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://wyq233.tk/</loc>
+<priority>1.0</priority>
+<lastmod>2018-08-12T08:23:41+00:00</lastmod>
+<changefreq>Daily</changefreq>
+</url>
+<url>
+<loc>http://wyq233.tk/about/</loc>
+<priority>0.7</priority>
+<lastmod>2018-08-12T08:23:41+00:00</lastmod>
+<changefreq>Daily</changefreq>
+</url>
+<url>
+<loc>http://wyq233.tk/portfolio/</loc>
+<priority>0.7</priority>
+<lastmod>2018-08-12T08:23:41+00:00</lastmod>
+<changefreq>Daily</changefreq>
+</url>
+<url>
+<loc>http://wyq233.tk/tags/</loc>
+<priority>0.7</priority>
+<lastmod>2018-08-12T08:23:41+00:00</lastmod>
+<changefreq>Daily</changefreq>
+</url>
+<url>
+<loc>http://wyq233.tk/2018/08/09/Mathematica%E6%BF%80%E6%B4%BB%E6%8C%87%E5%8D%97/</loc>
+<priority>1.0</priority>
+<lastmod>2018-08-12T08:23:41+00:00</lastmod>
+<changefreq>Daily</changefreq>
+</url>
+</urlset>
