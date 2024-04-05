@@ -100,7 +100,7 @@ kramdown:
 
 # valine
 
-valine: true
+valine: false
 
 
 
