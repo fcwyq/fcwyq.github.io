@@ -10,7 +10,7 @@ description: "关于前端与设计、黑客与画家 | fcwyq，Web & Mobile Lov
 
 keyword: "fcwyq Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 
-url: "https://wyq233.tk"              # your host, for absolute URL
+url: "https://fcwyq.github.io"              # your host, for absolute URL
 
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -118,7 +118,7 @@ Baidu-Analytics: 4e50bdff1a27ed4383d468da722fb45c
 
 ga_track_id: UA-123743240-1  
 
-ga_domain: wyq233.tk
+ga_domain: fcwyq.github.io
 
 
 # Sidebar settings

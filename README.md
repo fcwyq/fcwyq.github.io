@@ -1,2 +1,2 @@
-# [Go to fcwyq blog →](http://wyq233.tk)
+# [Go to fcwyq blog →](http://fcwyq.github.io)
 
