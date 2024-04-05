@@ -7,8 +7,8 @@ layout: default
 <!-- <img src="{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}" width="0" height="0"> -->
 
 <!-- 评论系统 -->
-<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+<link rel="stylesheet" href="/css/gitalk.css">
+<script src="/js/gitalk.min.js"></script>
 
 <!-- Post Header -->
 <style type="text/css">
@@ -80,6 +80,8 @@ layout: default
 				{{ content }}
 
                 <hr style="visibility: hidden;">
+				
+			</div>
 
                 <ul class="pager">
                     {% if page.previous.url %}
@@ -121,9 +123,9 @@ layout: default
 
             
 
-            </div>
+            
     
-    <!--   gitalk       -->
+    <!-- gitalk -->
                 {% if site.gitalk %}
                 <div class="comment">
                     {% include comments.html %}
