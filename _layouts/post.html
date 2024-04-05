@@ -121,6 +121,13 @@ layout: default
                    <script src="/js/gitalk.min.js"></script>
 
             </div>
+    
+    <!--   gitalk       -->
+                {% if site.gitalk %}
+                <div class="comment">
+                    {% include comments.html %}
+                </div>
+                {% endif %}
 
     <!-- Side Catalog Container -->
         {% if page.catalog %}
