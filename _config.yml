@@ -102,7 +102,13 @@ kramdown:
 
 valine: false
 
-
+gitalk:
+    enable: true
+    owner: fcwyq
+    repo: fcwyq.github.io
+    clientID: 7e04551a7237b3058397
+    clientSecret: 3fe3c1ac7036b54b6f707e1963492d20111d1b18
+    admin: fcwyq
 
 
 # Analytics settings
