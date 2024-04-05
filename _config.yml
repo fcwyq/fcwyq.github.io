@@ -109,7 +109,7 @@ gitalk:
     clientID: 7e04551a7237b3058397
     clientSecret: 3fe3c1ac7036b54b6f707e1963492d20111d1b18
     admin: fcwyq
-    proxy: https://blog-comments.904895480.workers.dev/?https://github.com/login/oauth/access_token
+    proxy: https://production.blog-comments.904895480.workers.dev/?https://github.com/login/oauth/access_token
 
 
 # Analytics settings
