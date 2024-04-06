@@ -6,6 +6,7 @@ author:     "fcwyq"
 header-img: "img/post-1.jpg"
 header-mask: 0.3
 catalog: true
+usemathjax: true
 tags:
     - mathematica
         
