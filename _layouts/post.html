@@ -130,39 +130,13 @@ layout: default
                     {% endif %}
                 </ul>
 				
-				 <!-- Valine 
-                   <head>                    				   
-                   <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-                   <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
-                   </head>
-                    <body>
-                      <div id="vcomments"></div>                				  
-					  <script>
-                          new Valine({
-                            el: '#vcomments', 						  
-						    app_id: 'Sb7pwMbAyLh9d4qei2omXtwm-gzGzoHsz',
-                            app_key: 'IwxbicbuvieaW3ktyb7a0Elv',
-							visitor: true,
-							notify:false, 
-                            verify:false, 
-                            placeholder: '老司机来一发吧 O(∩_∩)O~~'
-                          });
-                        </script>  -->           
-
-            
-
-            
-    
-    <!-- gitalk -->
+				<!-- gitalk -->
                 {% if site.gitalk %}
                 <div class="comment">
                     {% include comments.html %}
                 </div>
                 {% endif %}		
 	
-
-
-
     <!-- Side Catalog Container -->
         {% if page.catalog %}
             <div class="
@@ -218,12 +192,10 @@ layout: default
     </div>
 </article>
 
-
-
-
-
-
-
+<!-- Add support for Mathjax by Voleking-->
+{% if page.mathjax %}
+  {% include mathjax_support.html %}
+{% endif %}
 
 {% if site.anchorjs %}
 <!-- async load function -->
