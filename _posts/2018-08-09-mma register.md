@@ -34,4 +34,4 @@ y = y(x,t) &= A e^{i\theta} \\
 \end{align*}
 $$
 
-![Neuberg](/img/Neuberg.gif)
+![photon](/img/photon.gif)
