@@ -33,5 +33,3 @@ y = y(x,t) &= A e^{i\theta} \\
 &= A\cos \frac{2\pi}{\lambda} (x - v t) + i A\sin \frac{2\pi}{\lambda} (x - v t)
 \end{align*}
 $$
-
-![Neuberg](/img/Neuberg.gif)
