@@ -17,6 +17,11 @@ tags:
 
 [百度贴吧](https://tieba.baidu.com/f?kw=mathematica)里帖子不能编辑，很不方便，但大家在注册失败这事上可以说是拥有无穷的创造力注册过程又会出现新的问题，故开此GitHub Page，整理注册激活 Mathematica 过程及注册过程中可能碰到的问题。大家以后注册时如果出现新的问题，欢迎补充整理。
 
+```
+def hello_world():
+    print("Hello, world!")
+```
+
 LaTeX渲染测试:
 $y = \sin(\pi + \theta)$
 
