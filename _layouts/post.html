@@ -193,6 +193,7 @@ layout: default
 </article>
 
 <!-- Mathjax -->
+{% if page.mathjax %}
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
         tex2jax: {
@@ -202,6 +203,7 @@ layout: default
     });
 </script>
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+{% endif %}
 
 {% if site.anchorjs %}
 <!-- async load function -->
