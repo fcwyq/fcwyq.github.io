@@ -707,13 +707,13 @@ Table 1. DICs for the five fishes in the Yangtze River. In the table, GD, Gezhou
 
 表1：长江中五种鱼类的DIC。表中，GD，葛洲坝；三峡大坝；XJB/XLD，向家坝/溪洛渡大坝。括号表示适用的DIC周期。详见正文S4。N/A，不适用
 
-| Fish species               | Dam | GD       | TGP | XJB/XLD                                 |
+| Fish species鱼类             | Dam水坝 | GD       | TGP | XJB/XLD                                 |
 |---------------------------|-----|----------|-----|-----------------------------------------|
-| Chinese sturgeon          |     | 0.93 (1989-2002) for spawners; 0.882 (2003-2012) for spawners; 0.881 (2013-) for spawners; 0.842 | 0.85 (1989-2002) for males; 0.92 | 0.976 (2003-2012) for males; 0.842 (2013-) for males; 0.911(2013-) for females |
-| Chinese paddlefish        |     | 0.63 (1981-1984) for the old spawning stock; 0.78 (1985-) for the new spawning stock | N/A | N/A |
-| Yangtze sturgeon          |     | 0.75 (1981-) | N/A | N/A |
-| Chinese sucker            |     | 0.85 for spawners above the GD (1981-2009) and below the GD | 0.98 for spawners (2010-) and juveniles (2003-) above the TGD; 0.74 (1985-2002), for juveniles (1981-2002) | N/A |
-| Coreius guichenoti       |     | 0.83 for eggs/larvae (1981-2002) above the GD; 0.8 for subadults and adults below the GD (1981-2002) | 0.98 for eggs/larvae (2003-2007) above the TGD; 0.32 for subadults and larvae above the TGD (2008-) | 0.53 (2008-) for spawners and eggs/larvae above the TGD |
+| Chinese sturgeon中华鲟       |     | 0.93 (1989-2002) for spawners产卵者; 0.882 (2003-2012) for spawners; 0.881 (2013-) for spawners; 0.842 | 0.85 (1989-2002) for males男性; 0.92 | 0.976 (2003-2012) for males; 0.842 (2013-) for males; 0.911(2013-) for females |
+| Chinese paddlefish白鲟      |     | 0.63 (1981-1984) for the old spawning stock; 0.78 (1985-) for the new spawning stock新产卵种群 | N/A | N/A |
+| Yangtze sturgeon长江鲟       |     | 0.75 (1981-) | N/A | N/A |
+| Chinese sucker胭脂鱼         |     | 0.85 for spawners above the GD (1981-2009) and below the GD | 0.98 for spawners (2010-) and juveniles少年 (2003-) above the TGD; 0.74 (1985-2002), for juveniles (1981-2002) | N/A |
+| Coreius guichenoti圆口铜鱼   |     | 0.83 for eggs/larvae幼体(1981-2002) above the GD; 0.8 for subadults and adults below the GD (1981-2002) | 0.98 for eggs/larvae (2003-2007) above the TGD; 0.32 for subadults and larvae above the TGD (2008-) | 0.53 (2008-) for spawners and eggs/larvae above the TGD |
 
 Partial subadults, 2 to 5 years old, known as the “new” spawning stock, represented a small proportion of the subadults.  
 部分2至5岁的亚成体，被称为“新”产卵群体，代表了亚成体中的一小部分。
