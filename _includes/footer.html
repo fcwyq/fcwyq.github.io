@@ -242,6 +242,22 @@ var _hmt = _hmt || [];
         $('.side-catalog').toggleClass("fold")
     }))
 
+// 滚动跟随：滚过页眉后把目录固定在视口右侧
+var $sideCatalog = $('.side-catalog');
+var getHeaderH = function(){ return $('.intro-header').outerHeight() || 0; };
+var headerH = getHeaderH();
+$(window).on('load', function(){ headerH = getHeaderH(); });  // 字体/图片加载完重算一次
+var followCatalog = function(){
+    if ($(window).width() < 1200) { $sideCatalog.removeClass('fixed'); return; }
+    if ($(window).scrollTop() > headerH) {
+        $sideCatalog.addClass('fixed');
+    } else {
+        $sideCatalog.removeClass('fixed');
+    }
+};
+$(window).on('scroll', followCatalog);
+followCatalog();
+
     /*
      * Doc: https://github.com/davist11/jQuery-One-Page-Nav
      * Fork by Hux to support padding
