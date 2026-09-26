@@ -6,9 +6,9 @@ header-img: img/home-bg.jpg
 
 email: 904895480@qq.com
 
-description: "关于前端与设计、黑客与画家 | fcwyq，Web & Mobile Lover，Software Engineer，UX Designer | 这里是fcwyq的个人博客，与你一起发现更大的世界。"
+description: "关于Vibe Coding | fcwyq，Web & Mobile Lover，Software Engineer，UX Designer | 这里是fcwyq的个人博客，与你一起发现更大的世界。"
 
-keyword: "fcwyq Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+keyword: "fcwyq Blog, 博客, 个人网站"
 
 url: "https://fcwyq.github.io"              # your host, for absolute URL
 
@@ -25,17 +25,17 @@ future: true
 
 RSS: false
 
-#weibo_username:     wang1062807258 
+#weibo_username:     fcwyq 
 
 #zhihu_username:     fcwyq
 
 github_username:    fcwyq
 
-twitter_username:   1062807258wang
+#twitter_username:   fcwyq
 
 #facebook_username:  fcwyq
 
-#linkedin_username:  firstname-lastname-idxxxx
+#linkedin_username:  fcwyq
 
   
 
@@ -92,10 +92,6 @@ markdown: kramdown
 
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
-
-
-
-
 
 
 # valine
